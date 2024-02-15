@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Illallangi Enterprises
+title: Melbourne
 ---
 
 Services hosted on the Melbourne Kubernetes cluster.
 
 {% include portal.html portal="mel" %}
-
-The ![ill.al button](.\images\illalicon.png) icon is an ill.al link - an Illallangi owned domain used for shortlinks.

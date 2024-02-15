@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "Moonya Road Services",
+    "groupName": "Services",
     "portals": [
       {
         "portalName": "Home Assistant",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "groupName": "Moonya Infrastructure",
+    "groupName": "Infrastructure",
     "portals": [
       {
         "portalName": "Gatus",
