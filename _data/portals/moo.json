@@ -1,0 +1,31 @@
+[
+  {
+    "groupName": "Moonya Road Services",
+    "portals": [
+      {
+        "portalName": "Home Assistant",
+        "primaryURL": "https://moo-hass.illallangi.enterprises",
+        "secondaryURLs": [
+          {
+            "icon": "ill.al",
+            "url": "https://ill.al/hass"
+          },
+          {
+            "icon": "Old 🔗",
+            "url": "https://homeassistant.illallangi.enterprises"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupName": "Moonya Infrastructure",
+    "portals": [
+      {
+        "portalName": "Gatus",
+        "primaryURL": "https://moo-gatus.illallangi.enterprises/",
+        "note": "Status page for Illallangi services and infrastructure"
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "groupName": "Illallangi Services",
+    "portals": [
+      {
+        "portalName": "Mastodon",
+        "primaryURL": "https://mastodon.illallangi.enterprises",
+        "note": "Private Mastodon server, used for service announcements.",
+        "secondaryURLs": [
+          {
+            "icon": "ill.al",
+            "url": "https://ill.al/mastodon"
+          },
+          {
+            "icon": "Alt",
+            "url": "https://mastodon.illallangi.com"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupName": "Melbourne Infrastructure",
+    "portals": [
+      {
+        "portalName": "Gatus",
+        "primaryURL": "https://mel-gatus.illallangi.enterprises/"
+      }
+    ]
+  }
+]
