@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "Illallangi's Services",
+    "groupName": "Services",
     "portals": [
       {
         "portalName": "Mastodon",
@@ -19,24 +19,24 @@
     ]
   },
   {
-    "groupName": "Coley's Services",
+    "groupName": "Coley's Stuff",
     "portals": [
       {
-        "portalName": "Coley's Blog",
+        "portalName": "Blog",
         "primaryURL": "https://coley.au"
       },
       {
-        "portalName": "Coley's Gallery",
+        "portalName": "Gallery",
         "primaryURL": "https://gallery.coley.au"
       },
       {
-        "portalName": "Coley's Mastodon",
+        "portalName": "Mastodon",
         "primaryURL": "https://mastodon.coley.au"
       }
     ]
   },
   {
-    "groupName": "Melbourne Infrastructure",
+    "groupName": "Infrastructure",
     "portals": [
       {
         "portalName": "Gatus",
