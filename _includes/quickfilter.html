@@ -60,12 +60,6 @@
 
     // Display message if no portals are found
     totalNum = Array.from(document.querySelectorAll("div[class='portal-group']")).reduce((total, portalGroup) => total + (portalGroup.hidden === false ? 1 : 0), 0);
-
-    if (totalNum === 0) {
-      document.getElementsByClassName("nomatches")[0].style = "display: block;";
-    } else {
-      document.getElementsByClassName("nomatches")[0].style = "display: none;";
-    }
   }
 
   function idleSave() {
