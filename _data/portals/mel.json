@@ -15,6 +15,10 @@
             "url": "https://mastodon.illallangi.com"
           }
         ]
+      },
+      {
+        "portalName": "ESP Home",
+        "primaryURL": "https://mel-esphome.great-tuna.ts.net/"
       }
     ]
   },
