@@ -1,0 +1,21 @@
+[
+  {
+    "groupName": "Services",
+    "portals": [
+      {
+        "portalName": "ADSB",
+        "primaryURL": "https://haw-adsb.illallangi.enterprises"
+      }
+    ]
+  },
+  {
+    "groupName": "Infrastructure",
+    "portals": [
+      {
+        "portalName": "Gatus",
+        "primaryURL": "https://haw-gatus.illallangi.enterprises/",
+        "note": "Status page probing from Hawthorne Drive"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "groupName": "Services",
+    "portals": [
+      {
+        "portalName": "ADSB",
+        "primaryURL": "https://lon-adsb.illallangi.enterprises"
+      }
+    ]
+  },
+  {
+    "groupName": "Infrastructure",
+    "portals": [
+      {
+        "portalName": "Gatus",
+        "primaryURL": "https://lon-gatus.illallangi.enterprises/",
+        "note": "Status page probing from Longstaff Street"
+      }
+    ]
+  }
+]
