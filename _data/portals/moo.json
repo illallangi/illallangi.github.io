@@ -15,6 +15,14 @@
             "url": "https://homeassistant.illallangi.enterprises"
           }
         ]
+      },
+      {
+        "portalName": "ADSB",
+        "primaryURL": "https://moo-adsb.illallangi.enterprises"
+      },
+      {
+        "portalName": "AIS",
+        "primaryURL": "https://moo-ais.illallangi.enterprises"
       }
     ]
   },
@@ -24,7 +32,7 @@
       {
         "portalName": "Gatus",
         "primaryURL": "https://moo-gatus.illallangi.enterprises/",
-        "note": "Status page for Illallangi services and infrastructure"
+        "note": "Status page probing from Moonya Road"
       }
     ]
   }

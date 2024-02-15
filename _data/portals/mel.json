@@ -1,11 +1,10 @@
 [
   {
-    "groupName": "Illallangi Services",
+    "groupName": "Illallangi's Services",
     "portals": [
       {
         "portalName": "Mastodon",
         "primaryURL": "https://mastodon.illallangi.enterprises",
-        "note": "Private Mastodon server, used for service announcements.",
         "secondaryURLs": [
           {
             "icon": "ill.al",
@@ -20,11 +19,29 @@
     ]
   },
   {
+    "groupName": "Coley's Services",
+    "portals": [
+      {
+        "portalName": "Coley's Blog",
+        "primaryURL": "https://coley.au"
+      },
+      {
+        "portalName": "Coley's Gallery",
+        "primaryURL": "https://gallery.coley.au"
+      },
+      {
+        "portalName": "Coley's Mastodon",
+        "primaryURL": "https://mastodon.coley.au"
+      }
+    ]
+  },
+  {
     "groupName": "Melbourne Infrastructure",
     "portals": [
       {
         "portalName": "Gatus",
-        "primaryURL": "https://mel-gatus.illallangi.enterprises/"
+        "primaryURL": "https://mel-gatus.illallangi.enterprises/",
+        "note": "Status page probing from Melbourne"
       }
     ]
   }
