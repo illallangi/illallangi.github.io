@@ -34,15 +34,12 @@
             </a>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-            {% if page.title contains "Portals" %}
+            <section id="downloads">
+                <a href="{{ site.baseurl }}/" class="btn"></span>Home</a>
+                <a href="{{ site.baseurl }}/esphome" class="btn"></span>ESP Home Devices</a>
+            </section>
+
             {% include quickfilter.html %}
-            {% endif %}
-            {% if page.title contains "Training Links" %}
-            {% include quickfilter.html %}
-            {% endif %}
-            {% if page.title contains "Licensing Links" %}
-            {% include quickfilter.html %}
-            {% endif %}
 
         </div>
     </header>
