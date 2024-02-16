@@ -5,6 +5,10 @@
       {
         "portalName": "ADSB",
         "primaryURL": "https://gil-adsb.illallangi.enterprises"
+      },
+      {
+        "portalName": "Home Assistant",
+        "primaryURL": "https://gil-hass.illallangi.enterprises"
       }
     ]
   },
